@@ -500,7 +500,7 @@ pthread
 
 <br><br>
 
-```c{*|2-4|7|9-10}
+```c{*|2-5|7|9-10}
 #include <pthread.h>
 typedef void *(func)(void *);
 
