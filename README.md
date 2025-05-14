@@ -23,6 +23,7 @@
 - 小土刀的读厚/读薄 CSAPP 系列文章：https://wdxtub.com/csapp/thin-csapp-0/2016/04/16/
 - fengmuzi2003 的笔记：https://fengmuzi2003.gitbook.io/csapp3e
 - 另一位助教 lpy 老师的仓库：https://github.com/vwOvOwv/2024-Fall-ICS-TA
+- 某位热心同学的整理#7060664：https://disk.pku.edu.cn/link/AACDFCF5D5672B449F97792341ACA5879C
 - B 站 UP 主 九曲阑干 的视频
 - 教材习题参考答案（英文）：https://dreamanddead.github.io/CSAPP-3e-Solutions/
 
